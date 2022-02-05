@@ -38,6 +38,7 @@ Lora 센서
 
 
 ### 웨어러블 기기 컨트롤 앱 서비스 이미지  
+* 앱 인벤터를 사용하여 구현하였음.
 
 
 ![app1](https://user-images.githubusercontent.com/88263745/152625972-6033c800-1696-4e98-9600-d97f787f517b.jpg) 
